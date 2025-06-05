@@ -1,43 +1,56 @@
-👋 Hello, I'm Khangwelo Maja
+<h1 align="center">Hi 👋, I'm Khangwelo Maja</h1>
+<h3 align="center">Aspiring Software Developer | IT Student @ Belgium Campus | Passionate about tech & innovation</h3>
 
-🎓 Student at Belgium Campus ITversity📍 Johannesburg, Gauteng, South Africa📅 Studying from 2024 to Present
+<p align="center">
+  <a href="mailto:khangwelomaja806@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/khangwelo-maja-39bb6732a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-🚀 About Me
+---
 
-I'm a motivated and curious IT student currently enrolled at Belgium Campus. My journey into tech is fueled by a passion for learning and building digital solutions. I’m especially interested in software development, databases, and emerging technologies.
+## 👨‍💻 About Me
 
-🛠️ Skills & Interests
+I'm **Khangwelo Maja**, an ambitious IT student currently studying at **Belgium Campus ITversity** (2024–2027), based in **Johannesburg, South Africa**. I’m driven by curiosity and a strong desire to build and understand digital systems. My current focus is on software development and database design.
 
-💻 Software Development (C#, Python, Java basics)
+---
 
-🗄️ Databases & SQL
+## 🧠 Skills
 
-🌐 Web Technologies (HTML, CSS, basic JavaScript)
+- 💻 Programming Languages: `C#`, `Python`, `Java (basics)`
+- 🗄️ Databases: `SQL`, `Relational Database Design`
+- 🌐 Web Development: `HTML`, `CSS`, `JavaScript (basics)`
+- 🔧 Tools & Platforms: `Git`, `GitHub`, `Visual Studio`, `MySQL`
+- 🧩 Soft Skills: `Problem Solving`, `Logical Thinking`, `Continuous Learning`
 
-🧠 Problem Solving & Algorithmic Thinking
+---
 
-🌱 Currently Learning
+## 📚 Currently Learning
 
-Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
+- Frontend & Backend Fundamentals
+- Git & Version Control Best Practices
+- Full-stack Development Concepts
 
-Relational Database Design
+---
 
-Version Control with Git & GitHub
+## 💼 Projects
 
-Frontend and Backend fundamentals
+🛠️ *In progress!*  
+Stay tuned for updates on personal and academic projects ranging from console applications to full database systems.
 
-📫 Get in Touch
+---
 
-📧 khangwelomaja806@gmail.com
+## 📫 Contact Me
 
-🔗 LinkedIn Profile
+- 📧 Email: [khangwelomaja806@gmail.com](mailto:khangwelomaja806@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/khangwelo-maja-39bb6732a](https://www.linkedin.com/in/khangwelo-maja-39bb6732a)
 
-📂 Projects
+---
 
-I'm actively building personal and academic projects to sharpen my skills — check out my repositories and feel free to contribute or share feedback!
+## ✨ Quote I Live By
 
-💡 Quote I Live By
+> “The best way to predict the future is to invent it.” — *Alan Kay*
 
-"The best way to predict the future is to invent it." — Alan Kay
+---
 
-Thanks for visiting my profile! 🚀
+<p align="center">Thanks for stopping by! 🚀</p>
